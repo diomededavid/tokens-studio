@@ -1,0 +1,6 @@
+# Ignores Build Folder and contents
+build/*
+
+# Ignores Node Modules  and contents
+node_modules/*
+

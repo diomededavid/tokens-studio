@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "style-dictionary": "^3.8.0",
+    "style-dictionary": "^3.9.0",
     "style-dictionary-utils": "^2.0.1"
   },
   "scripts": {
