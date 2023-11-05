@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "style-dictionary": "^3.9.0",
+    "style-dictionary-utils": "^2.0.1"
+  },
+  "scripts": {
+    "build": "node config.js"
+  },
+  "dependencies": {
+    "@tokens-studio/sd-transforms": "^0.11.1"
+  }
+}
